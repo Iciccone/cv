@@ -1,0 +1,83 @@
+body {
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  margin: 0;
+}
+
+h1 {
+  font-family: 'Parisienne', cursive;
+  font-size: 5.625rem;
+  color: #66BFBF;
+  margin: 50 auto 0 auto;
+  line-height: 2;
+
+}
+
+h2 {
+  font-family: 'Merriweather', serif;
+  font-size: 1.5rem;
+  color: #66BFBF;
+  font-weight: normal
+}
+
+h3 {
+  font-family: 'Merriweather', serif;
+  color: #11999E;
+}
+
+hr {
+  margin: 50px auto 50px auto;
+  border-color: #E8E8E8;
+  border-style: dotted;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  border-width: 8px;
+  width: 5%;
+}
+
+.topcontainer {
+  background-color: #E8E8E8;
+  position: relative;
+  padding-top: 100px;
+}
+
+.topcloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.botcloud {
+  position: absolute;
+  left: 300px;
+}
+
+.middlecontainer {
+
+
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.pcimg {
+  width: 25%;
+  border-radius: 100%;
+  float: left;
+  margin-right: 30px;
+}
+
+.text1 {
+}
+
+.peperimg {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+
+}
